@@ -2,15 +2,6 @@
 
 Tab widget navigates the user through different routes(ie, pages) when clicked upon.
 
-## Getting Started
+## Screenshots
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot 2024-04-29 193348](https://github.com/GisoreB/flutter_tab_bar_demo/assets/144854877/e56d86ee-3e23-4052-8200-3e19673fd120)
